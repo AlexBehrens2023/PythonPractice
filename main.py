@@ -1,15 +1,28 @@
-def topFiveMovie():
-    #print first movie
-    print("Star wars")
+def topFiveFavreatAnimals():
+    #first favreat Animal
+    print("Squirral")
 
-    #print secent movie
-    print("squirrel documetry")
+    #Secoend favreat Animal
+    print("Otter")
 
-     #print three movie
-    print("lago movie")
+    #three favreat Animal
+    print("Dove")
 
-     #print fouth movie
-    print("Advengers endgame")
+    #fourth favreat Animal
+    print("Dog")
 
-topFiveMovie()
-print("Helpp mee")
+    #Firth favreat Animal
+    print("Cat")
+topFiveFavreatAnimals()
+def topThreeBears():
+
+    #First Bear
+    print("Sloth Bear")
+
+    #secint Bear
+    print("Grizzly Bear")
+
+    #Three Bead
+    print("Panda Bear")
+
+topThreeBears()
